@@ -1,0 +1,69 @@
+{
+    "display_name": "齊藤 弘樹 / Hiroki Saito",
+    "headline": "AWSインフラエンジニア（3年）",
+    "summary": "AWS・Linux基盤を設計から自動化まで一気通貫で担当できるインフラエンジニアです。直近は金融系基幹システム更改でチームリードを務めました。",
+    "core_skills": [
+        {
+            "name": "AWS (VPC, RDS, Lambda, EventBridge)",
+            "years": 3
+        },
+        {
+            "name": "Python (IaC, 自動化スクリプト)",
+            "years": 3
+        },
+        {
+            "name": "Terraform / CDK",
+            "years": 2
+        }
+    ],
+    "certifications": [
+        {
+            "title": "AWS Certified Solutions Architect – Professional",
+            "year": 2024
+        },
+        {
+            "title": "LPIC Level 2",
+            "year": 2024
+        },
+        {
+            "title": "応用情報技術者",
+            "year": 2024
+        }
+    ],
+    "projects": [
+        {
+            "name": "銀行勘定系システム基盤更改",
+            "role": "Infra Lead (5 名)",
+            "tech": [
+                "AWS",
+                "Terraform",
+                "Aurora",
+                "EventBridge"
+            ],
+            "outcome": "可用性 99.99 %、構築工数 20 % 削減"
+        },
+        {
+            "name": "StockWish",
+            "role": "個人開発",
+            "tech": [
+                "Flask",
+                "Gunicorn",
+                "Nginx",
+                "SQLite"
+            ],
+            "outcome": "株価シミュレーション機能、MCP 連携 PoC"
+        }
+    ],
+    "volunteer_work": [
+        {
+            "activity": "Engineer 3% Club – 食糧寄付",
+            "since": "2024-01",
+            "monthly": "米10 kg + 卵14 パック"
+        }
+    ],
+    "links": {
+        "github": "https://github.com/saito-h-stockwish",
+        "blog": "https://infra-beginner.jp",
+        "linkedin": "https://www.linkedin.com/in/hiroki-saito"
+    }
+}
