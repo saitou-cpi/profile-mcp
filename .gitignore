@@ -1,0 +1,31 @@
+# -------------------------
+# Python & venv
+# -------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.venv/
+
+# -------------------------
+# Secrets & Config
+# -------------------------
+.env            # 本番シークレット
+*.pem           # TLS/SSH 鍵類（念のため）
+profile.json.local
+jwt_token.txt
+
+# -------------------------
+# Logs & Temp
+# -------------------------
+*.log
+*.tmp
+.logs/
+
+# -------------------------
+# OS / Editor artefacts
+# -------------------------
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
